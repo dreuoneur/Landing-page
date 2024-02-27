@@ -78,24 +78,19 @@ padding-bottom: 80px;
 }
  h3 {
     font-size: 30px;
-    
-  
-}
-ul {
-    display: flex;
-    gap: 10px;
-    padding: 10px;
-    margin: 10px;
-    
-    
-    
-}
-li {
+ }    
+  .boxes {
     display: flex;
     flex-direction: column;
+  } 
+
+ .container2 {
+    display: flex;
+ }
+.box {
     border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
     width: 100px;
     height: 100px;
-    
 }
-

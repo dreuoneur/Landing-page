@@ -115,3 +115,24 @@ padding-bottom: 80px;
     font-size: 18px;
     color: gray;
 }
+
+.container3 {
+    background-color: #E5E7EB;
+    display: flex;
+
+}
+.container-text {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 180px;
+}
+.bigtext {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: lightslategray;
+  
+}
+.firma {
+    align-self: self-end;
+}

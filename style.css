@@ -124,7 +124,7 @@ padding-bottom: 80px;
 .container-text {
     display: flex;
     flex-direction: column;
-    padding: 50px 180px;
+    padding: 50px 280px;
 }
 .bigtext {
     font-size: 36px;
@@ -135,4 +135,37 @@ padding-bottom: 80px;
 }
 .firma {
     align-self: self-end;
+}
+.container4 {
+    display: flex;
+    padding: 50px 180px;
+    justify-content: center;
+}
+.blue-box {
+
+    display: flex;
+    height: 150px;
+    width: 1000px;
+    background-color: #3882F6;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    padding: 10px 100px;
+}
+.last-text {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: -2em;
+}
+.border {
+    border: 2px solid white;
+}
+.hache {
+    margin-bottom: -0.5em;
+    font-weight: bold;
+    font-size: 20px;
+}
+.hache-content {
+    font-size: 14px;
 }

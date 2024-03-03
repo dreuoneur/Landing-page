@@ -169,3 +169,14 @@ padding-bottom: 80px;
 .hache-content {
     font-size: 14px;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color:#E5E7EB ;
+   
+    padding: 20px;
+}
+.footer-text {
+    font-size: 14px;
+}
